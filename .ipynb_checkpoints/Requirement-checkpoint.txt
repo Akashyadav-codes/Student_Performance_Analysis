@@ -1,0 +1,8 @@
+## 📋 Requirements
+
+- Python 3.10 or above
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
